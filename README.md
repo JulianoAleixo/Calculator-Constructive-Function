@@ -1,2 +1,4 @@
 # Calculator-Constructive-Function
-A JS calculator made with constructive function and EVAL function;
+A JS calculator using Constructive Function, and EVAL function. This project was made when i was studing my JavaScript and TypeScript course.
+
+WARNING: This code may "crash" when using text input to execute a JavaScript line. The EVAL function may have a security flaw in your code. Use with care.
